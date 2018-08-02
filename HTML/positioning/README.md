@@ -7,6 +7,7 @@ Build a view with a nav, main body, 3 columns, and footer
 html
     head
         title= My Cool Page
+        link(href='/css/styles.css', rel='stylesheet')
     body
         header.container-fluid
             nav.navbar.navbar-dark.bg-dark
