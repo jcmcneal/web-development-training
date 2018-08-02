@@ -1,5 +1,5 @@
 ### Positioning
-Build a view with a nav, main body, 3 columns, and footer
+Build a view with a nav, main body, 3 columns, and footer. Add your code to `index.html` and test in the browser.
 
 #### Manually Convert This Jade Syntax Into HTML5
 ```jade
