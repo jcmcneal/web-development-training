@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "server": {
+    "port": 4000
+  },
+  "devDependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "node": "^10.8.0"
+  }
+}
