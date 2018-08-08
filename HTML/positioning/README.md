@@ -53,4 +53,7 @@ html
                 div.pt-2.pb-5 &copy; Copyright (current year)
 ```
 
+### Styling
+Style the HTML to match this mockup:
 
+![Mockup](https://raw.githubusercontent.com/jcmcneal/web-development-training/master/HTML/positioning/css/styles.png)
